@@ -1,4 +1,4 @@
-# Ryzentosh for AMD Ryzen 9 7900X + X670E-PLUS Wifi
+# Ryzentosh for AMD Ryzen 9 7900X + TUF X670E-PLUS Wifi
 
 ## Specification
 |  Component  | Model  |
